@@ -10,10 +10,10 @@
 </head>
 <body dir="rtl">
 
-<h2?php
+<?php
          include "header.php";
 ?>
-<p  style="font-size:80px; font-color: black; margin-right: 650px; margin-left: 650px; margin-top: 50px">
+<p  style="font-size:80px; margin-right: 650px; margin-left: 650px; margin-top: 50px">
      <?php
           echo "Wellcome"; 
           echo "reza";
@@ -21,7 +21,7 @@
           echo "mohsen";
           echo "new";
            echo "dddd";
-
+           echo "dsqddd";
 
 
      ?> 
