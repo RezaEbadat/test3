@@ -22,7 +22,7 @@
           echo "new";
            echo "dddd";
            echo "dsqddd";
-
+           echo "this is example";
 
      ?> 
      <h1>text</h1>
