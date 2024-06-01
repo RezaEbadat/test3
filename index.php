@@ -28,7 +28,7 @@
      <h1>text</h1>
      <h1>res</h1>
      <h2>this is a sample text</h2>
-     
+     <h2>this is a sample text tag</h2>
 </p>
 </body>
 </html>
